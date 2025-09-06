@@ -4,4 +4,4 @@ war crime
 - run `main.py`
 - once you're tired, ctrl+c to exit
 - run `infinite_if.py`
-- get segfaulted lol
+- instant memory error!
